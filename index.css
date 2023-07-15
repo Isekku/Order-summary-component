@@ -73,11 +73,15 @@ body{
 }
 
 #planBox{
-    flex: 3;
+    flex: 2;
+    margin: 20px 0;
+    padding: 0 20px;
+    border-radius: 10px;
     display: flex;
     width: 80%;
     align-items: center;
     justify-content: space-between;
+    background-color: hsl(225, 100%, 98%);
 }
 
 #plan{
